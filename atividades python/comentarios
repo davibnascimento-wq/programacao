@@ -1,0 +1,17 @@
+while - enquanto
+float - variavel tipo real
+int - variavel tipo inteiro 
+str - variavel do tipo caracter 
+bool - variavel tipo logica 
+print - escreva 
+if - se
+input - leia 
+else - senao 
+elif - do se e senao 
+for - para 
+o simbolo de = é igual ao simbolo de <-
+match - escolha 
+case - caso 
+or - ou 
+and - e
+upper - torna o texto de uma variavel em maiusculo
