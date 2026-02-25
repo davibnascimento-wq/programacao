@@ -1,0 +1,5 @@
+pequenas = int(input("digite a quantidade de camisetas pequenas"))
+medias = int(input("digite a quantidade de camisetas medias"))
+grandes = int(input("digite a quantidade de camisetas grandes"))
+valortotal = (pequenas * 10) + (medias * 10) + (grandes * 10)
+print(f"o valor total arrecadado é : {valortotal}")
